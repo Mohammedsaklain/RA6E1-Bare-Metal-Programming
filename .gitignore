@@ -1,5 +1,4 @@
 *.json
-/.vscode
 /build
 *.bin
 *.elf
